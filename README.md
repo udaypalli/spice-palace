@@ -27,7 +27,7 @@
 
 | Home Page| 
 |---------------|
-| ![Home](https://github.com/udaypalli/spice-palace-rms/blob/main/image.png?raw=true) |
+| ![Home](https://github.com/udaypalli/spice-palace/blob/main/image.png?raw=true) |
 
 ---
 
